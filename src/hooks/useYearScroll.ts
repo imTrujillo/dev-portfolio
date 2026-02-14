@@ -70,7 +70,7 @@ export default function useYearScroll() {
 
       if (isEducationSection) {
         horizontalScrollContainer = section.querySelector(
-          ".formation-projects"
+          ".formation-projects",
         );
       }
 
@@ -128,7 +128,7 @@ export default function useYearScroll() {
                 ease: "none",
                 duration: 5,
               },
-              "<"
+              "<",
             );
           }
         }

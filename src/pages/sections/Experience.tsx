@@ -20,7 +20,7 @@ function Experience() {
     >
       <div className="gap-8 w-full h-full">
         <div className="flex flex-col justify-end gap-8 pb-8 h-full">
-          <div className="flex flex-col md:items-start">
+          <div className="flex flex-col md:items-start ">
             <Title label="EXPERIENCIA" size="small" />
             <KeepScrollingLabel />
           </div>

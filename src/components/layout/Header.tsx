@@ -30,7 +30,7 @@ const Header = () => {
         <div className="w-screen h-screen min-h-100 py-5 px-5 md:px-12 lg:px-10 flex flex-col justify-around md:justify-between text-center md:text-start ">
           <Title label="Hola, soy" size="small">
             <br />
-            <span className="text-transparent bg-clip-text bg-linear-to-br from-purple-300/80 to-[#daa820] font-bold">
+            <span className="text-transparent bg-clip-text bg-linear-to-br from-slate-300/80 to-[#daa820] font-bold">
               Steven Trujillo
             </span>
           </Title>

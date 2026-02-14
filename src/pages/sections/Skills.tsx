@@ -63,7 +63,7 @@ function Skills() {
       <div className="gap-8 w-full h-full">
         <div className="flex flex-col justify-start pb-8 h-full">
           <div className="px-4 text-center md:text-start">
-            <Title label="Habilidades" />
+            <Title label="Habilidades" size="small" />
           </div>
           <div className="text-center space-y-4 md:text-end overflow-hidden md:w-[75%] lg:w-[85%]">
             <Grid label="Técnicas" skills={techSkills} />
